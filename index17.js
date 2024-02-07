@@ -1,3 +1,4 @@
+// Concept:-Loops, Conditionals
 // repeatedly 
 // loops: for, while, do-while, for in, for of
 // iteration
@@ -29,7 +30,7 @@ for (var i = 1; ; i++) {
     console.log("hello");
 
     if (i === 10) {
-       
+        break;
     }
 }
 
